@@ -1,0 +1,25 @@
+1. redux
+2. redux-toolkit
+3. redux-persist
+
+
+Terminology
+--------------
+store - state management
+action - CRUD operation
+reducer - what to add  - function 
+dispatch - state changes
+
+
+methods
+getState() - return the current state
+dispatch() - state has been updated
+subscribe()  - reducer return the state
+
+Steps
+---------
+
+1. Design a store - ✅
+2. Define the actions ✅
+3. Create a reducer  ✅
+4. setup a store 
